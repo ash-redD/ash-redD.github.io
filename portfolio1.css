@@ -1,0 +1,54 @@
+.jumbotron{
+background-color : #1d42af;
+color : #ffffff;
+padding : 100px 25px;
+}
+
+.container-fluid{
+padding : 60px 50px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.logo {
+    color: #f4511e;
+    font-size: 300px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #1d42af;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #1d42af !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+  .summary{
+  font-family: 'PT Sans', sans-serif;
+  }
+  
+  .ashu{
+  background="linkedin.jpg"
+  width ="auto";
+  height = "auto";
+  background-size: cover;
+  }
