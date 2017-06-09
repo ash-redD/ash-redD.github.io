@@ -46,8 +46,11 @@ padding : 60px 50px;
   font-family: 'PT Sans', sans-serif;
   }
   
+ .contact-heading{
+ font-size: 50px;
+ }
  
   .contact-text{
-  font-size: 150 px !important; 
+  font-size: 45px; 
   font-family: 'PT Sans', sans-serif;
   }
