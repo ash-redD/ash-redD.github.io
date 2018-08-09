@@ -46,9 +46,11 @@ padding : 60px 50px;
   font-family: 'PT Sans', sans-serif;
   }
   
-  .ashu{
-  background="linkedin.jpg"
-  width ="auto";
-  height = "auto";
-  background-size: cover;
+ .contact-heading{
+ font-size: 50px;
+ }
+ 
+  .contact-text{
+  font-size: 45px; 
+  font-family: 'PT Sans', sans-serif;
   }
